@@ -1,0 +1,9 @@
+/* CSS Document */
+body{ background-image:url(images/coming3.jpg);}
+	
+#container
+ 		{width:1200px; height:600px; margin:auto; padding-top:20px;}
+#content
+		{width:800px; height:200px; margin:auto; margin-top:150px; background-image:url(images/color.fw.png);}
+
+
